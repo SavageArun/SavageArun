@@ -1,6 +1,6 @@
-<td align="center" width="20%">
+<td align="center" width="50%">
 <span><b><center></center></b></span> 
-<img height=65px src="https://vq.pe/creator/frontend/img/2319/1683632033-PicsArt_05-09-05.00.06.png"> 
+<img height=100px src="https://vq.pe/creator/frontend/img/2319/1683632033-PicsArt_05-09-05.00.06.png"> 
 </td>
 
 <h2> Hey there! I'm Arun Kumar</h2>
