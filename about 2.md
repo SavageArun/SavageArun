@@ -2,8 +2,10 @@
 
 <div align="center" width="50">
 
-<img src="https://vq.pe/creator/frontend/img/2319/1683632033-PicsArt_05-09-05.00.06.png" alt="Welcome!" width="300"/>
-
+<td align="center" width="80%">
+<span><b><center></center></b></span> 
+<img height=150px src="https://vq.pe/creator/frontend/img/2319/1683632033-PicsArt_05-09-05.00.06.png"> 
+</td>
 </div>
 
 You have finally discovered my Github profile. <br>
