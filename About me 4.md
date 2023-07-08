@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://vq.pe/creator/frontend/img/2319/1683632033-PicsArt_05-09-05.00.06.png">
 
 <h2> Hey there! I'm Arun Kumar</h2>
 
