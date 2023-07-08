@@ -1,7 +1,7 @@
-## Hey <td align="center" width="80%">
+## Hello <td align="center" width="80%">
 <span><b><center></center></b></span> 
 <img height=150px src="https://vq.pe/creator/frontend/img/2319/1683632033-PicsArt_05-09-05.00.06.png"> 
-</td>, I'm [Arun!](https://github.com/SavageArun) !!
+</td>Hey I'm [Arun!](https://github.com/SavageArun) !!
 
 </h2>
 
